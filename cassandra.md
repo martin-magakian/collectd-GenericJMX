@@ -1,4 +1,4 @@
-## Cassandra
+## Cassandra monitoring using collectd and GenericJMX
 ```xml
 LoadPlugin java
 <Plugin "java">
