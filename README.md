@@ -9,6 +9,7 @@ Some monitoring exemple using collectd and GenericJMX
 [tomcat-GenericJMX](tomcat.md)
 
 
+--------------------
 
 
 
